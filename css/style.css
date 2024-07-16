@@ -49,7 +49,6 @@ html {
 
 .buttons button:active {
     outline: none;
-    border: none;
 }
 
 .buttons button:focus {
